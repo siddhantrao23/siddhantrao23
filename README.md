@@ -1,4 +1,4 @@
-
+👋 :octocat:
 <!--
 ### Hi there 👋
 
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=siddhantrao23)](https://github.com/anuraghazra/github-readme-stats)
